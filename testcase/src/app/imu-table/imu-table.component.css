@@ -1,0 +1,20 @@
+.example-container {
+    overflow: auto;
+    border: 1px;
+  }
+  
+  table {
+    width: 80%;
+  }
+
+  .req{
+    margin: 29px;  }
+
+    ::ng-deep .mat-header-cell , ::ng-deep .mat-cell{
+      text-align: center !important;
+    }
+
+    /* ::ng-deep .mat-sort-header-container {
+      display:flex;
+      justify-content:center;
+    } */
